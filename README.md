@@ -3,10 +3,10 @@
 Frontend Developer (React.js)
 
 ## 🚀 Skills
-React, TypeScript, Redux, Next.js
+React, TypeScript, Redux, Next.js, Pixi.js, Phaser.js
 
 ## 🔥 Projects
-- Admin Dashboard (React + Redux)
+- Project Management Software (React + Redux)
 
 ## 📫 Contact
 Email: fzahmad6@gmail.com
